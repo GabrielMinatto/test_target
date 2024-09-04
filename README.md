@@ -1,8 +1,8 @@
-#﻿Teste para vaga de estágio Target Sistemas
+#﻿ Teste para vaga de estágio Target Sistemas
 
-Feito com Node.js
+Este projeto foi desenvolvido utilizando Node.js.
 
-##Para iniciar utilize 
+## Para iniciar utilize 
 
 ```bash
 npm init

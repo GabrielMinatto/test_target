@@ -5,5 +5,5 @@ Feito com Node.js
 ##Para iniciar utilize 
 
 ```bash
-npm install
+npm init
 ```
